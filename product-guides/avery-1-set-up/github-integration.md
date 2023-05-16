@@ -23,3 +23,9 @@ coverY: 0
 9. Set the desired repository permissions:
    * Grant "Read & Write" (R\&W) access for contents.
    * Grant "Read & Write" (R\&W) access for pull requests.
+10. Paste your GitHub Account Token in the profile section of your Avery-1 account
+11. Type your GitHub Account Name in the profile section of your Avery-1 account
+12. Hit update
+13. You're all done! 🎉
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-05-16 at 11.13.55.png" alt=""><figcaption></figcaption></figure>
