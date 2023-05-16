@@ -9,7 +9,7 @@ coverY: 0
 # 👋 Welcome to February Labs!
 
 {% hint style="info" %}
-**February Labs Tip:** Want to get involved in our community and benefit from our open-source developer benefits? Join our discord server today!
+**February Labs Tip:** Want to get involved in our community and benefit from our [open-source developer benefits](info/open-source-contributor-benefits.md)? Join our [discord server](https://discord.gg/6GFtwzuvtw) today!
 {% endhint %}
 
 ## Overview

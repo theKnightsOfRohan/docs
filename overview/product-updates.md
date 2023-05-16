@@ -9,7 +9,7 @@ coverY: 0
 # 🪄 Product Updates
 
 {% hint style="info" %}
-February Labs tip**:** We often release video updates regarding our products, follow us on Twitter to keep up-to-date.
+February Labs tip**:** We often release video updates regarding our products, [follow us on Twitter ](https://twitter.com/february\_labs)to keep up-to-date.
 {% endhint %}
 
 ## Avery-1
