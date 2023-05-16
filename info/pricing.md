@@ -1,5 +1,10 @@
 ---
 description: Pricing Options Tailored for Developers
+cover: >-
+  ../.gitbook/assets/DALL·E 2023-04-18 19.33.52 - A serene pastel scene of a
+  woman sitting on a floating platform, surrounded by clouds and birds, as she
+  works on her laptop to design and code a new s.png
+coverY: 0
 ---
 
 # 💼 Pricing

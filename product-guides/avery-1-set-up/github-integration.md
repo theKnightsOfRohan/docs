@@ -1,3 +1,11 @@
+---
+cover: >-
+  ../../.gitbook/assets/DALL·E 2023-04-18 19.34.10 - A vibrant pastel-colored
+  illustration of a group of people sitting in a cafe, surrounded by plants and
+  a cute robot, as they brainstorm and sketch out.png
+coverY: 0
+---
+
 # 📝 GitHub Integration
 
 ## Follow these simple steps on GitHub

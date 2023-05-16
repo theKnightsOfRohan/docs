@@ -1,5 +1,10 @@
 ---
 description: Become an Open-Source Developer and Join Our Vibrant Community!
+cover: >-
+  ../.gitbook/assets/DALL·E 2023-04-18 18.47.40 - An expressive oil painting
+  with digital vibes of An idyllic park setting with a young woman sitting on a
+  bench surrounded by flowers and greenery, usi.png
+coverY: 0
 ---
 
 # 🧝♂ Open-source contributor benefits
