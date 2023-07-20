@@ -16,9 +16,9 @@ coverY: 0
 
 February Labs is a young and innovative AI research company based in the North of the UK. Founded in 2020 and with a focus on artificial general intelligence and autonomous AI, the company is dedicated to creating AI-powered products that streamline the software development process.
 
-We build free and open-source tools, so far we've been working on Avery-1 and Avery-2, our tools for completing dev tickets on your behalf.
+We build free and open-source tools, so far we've been working on DevGPT, our tools for completing dev tickets on your behalf.
 
-> You can see more info on Avery-1 and Avery-2, including our waiting list and steps to get started
+> You can see more info on DevGPT, including sign up and steps to get started
 >
 > — From the [February Labs Homepage](https://feb.co.uk)
 
