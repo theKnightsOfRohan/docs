@@ -12,7 +12,7 @@ coverY: 0
 February Labs tip**:** We often release video updates regarding our products, [follow us on Twitter ](https://twitter.com/february\_labs)to keep up-to-date.
 {% endhint %}
 
-## Avery-1
+## DevGPT-1.0.1
 
 Here's a quick May 2023 video update:
 
