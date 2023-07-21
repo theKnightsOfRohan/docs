@@ -36,10 +36,10 @@ We build free and open-source tools, so far we've been working on DevGPT, our to
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="product-guides/avery-1-set-up/" %}
-[avery-1-set-up](product-guides/avery-1-set-up/)
+{% content-ref url="product-guides/devgpt-set-up/" %}
+[devgpt-set-up](product-guides/devgpt-set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="product-guides/avery-1-set-up/github-integration.md" %}
-[github-integration.md](product-guides/avery-1-set-up/github-integration.md)
+{% content-ref url="product-guides/devgpt-set-up/github-integration.md" %}
+[github-integration.md](product-guides/devgpt-set-up/github-integration.md)
 {% endcontent-ref %}
