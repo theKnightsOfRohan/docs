@@ -17,13 +17,13 @@ Join our vibrant and inclusive community of developers, enthusiasts, and experts
 
 We value the contributions of our open-source developers and believe in giving credit where it's due. As a contributor, you will receive recognition for your efforts, including mentions on our homepage and in the READMEs of our GitHub repositories. Your valuable contributions will be acknowledged and appreciated by the entire community.
 
-### Avery-1 Merchandise
+### DevGPT Merchandise
 
-As a token of our gratitude, contributors will receive complimentary merchandise featuring our stylish brand. Show off your support for Avery-1 with our exclusive branded items, including apparel, accessories, and more. It's our way of saying thank you for your dedication and hard work.
+As a token of our gratitude, contributors will receive complimentary merchandise featuring our stylish brand. Show off your support for DevGPT with our exclusive branded items, including apparel, accessories, and more. It's our way of saying thank you for your dedication and hard work.
 
 ### Free Pro Membership
 
-Gain access to exclusive features and advanced capabilities by being part of our open-source community. As an open-source developer, you will receive a complimentary pro membership, enabling you to explore additional functionalities and take advantage of powerful tools within Avery-1. Unlock new possibilities and enhance your coding experience with this premium access.
+Gain access to exclusive features and advanced capabilities by being part of our open-source community. As an open-source developer, you will receive a complimentary pro membership, enabling you to explore additional functionalities and take advantage of powerful tools within DevGPT. Unlock new possibilities and enhance your coding experience with this premium access.
 
 ### Hackathons & Events
 
