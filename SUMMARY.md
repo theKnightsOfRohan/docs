@@ -14,8 +14,8 @@
 
 ## Product Guides
 
-* [⏫ DevGPT set up](product-guides/devgpt-set-up/README.md)
-  * [📝 GitHub Integration](product-guides/devgpt-set-up/github-integration.md)
+* [⏫ DevGPT set up](product-guides/avery-1-set-up/README.md)
+  * [📝 GitHub Integration](product-guides/avery-1-set-up/github-integration.md)
 
 ## Info
 

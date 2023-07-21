@@ -6,7 +6,7 @@ cover: >-
 coverY: 0
 ---
 
-# ⏫ Avery-1 set up
+# ⏫ DevGPT set up
 
 {% content-ref url="github-integration.md" %}
 [github-integration.md](github-integration.md)
