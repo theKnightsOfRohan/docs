@@ -8,7 +8,7 @@
 
 ## fundementals
 
-* [📪 Avery-1 Introduction](fundementals/avery-1-introduction.md)
+* [📪 DevGPT Introduction](fundementals/devgpt-introduction.md)
 * [📎 Understanding Limitations](fundementals/understanding-limitations.md)
 * [💡 Best Practices](fundementals/best-practices.md)
 
