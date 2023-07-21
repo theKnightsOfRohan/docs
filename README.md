@@ -8,11 +8,11 @@ coverY: 0
 
 # 👋 Welcome to February Labs!
 
-{% hint style="info" %}
-**February Labs Tip:** Want to get involved in our community and benefit from our [open-source developer benefits](info/open-source-contributor-benefits.md)? Join our [discord server](https://discord.gg/6GFtwzuvtw) today!
+{% hint style="success" %}
+We have recently renamed Avery-1 to **DevGPT**
 {% endhint %}
 
-## Overview
+Overview
 
 February Labs is a young and innovative AI research company based in the North of the UK. Founded in 2020 and with a focus on artificial general intelligence and autonomous AI, the company is dedicated to creating AI-powered products that streamline the software development process.
 
@@ -25,6 +25,10 @@ We build free and open-source tools, so far we've been working on DevGPT, our to
 > You can take a look at all of the tools we're currently working on, and even submit your own
 >
 > — From the [February Labs Marketplace](https://feb.co.uk/marketplace)
+
+{% hint style="info" %}
+**February Labs Tip:** Want to get involved in our community and benefit from our [open-source developer benefits](info/open-source-contributor-benefits.md)? Join our [discord server](https://discord.gg/6GFtwzuvtw) today!
+{% endhint %}
 
 ## Quick links
 
