@@ -4,6 +4,7 @@
 
 ## Overview
 
+* [⚙ Installation](overview/installation.md)
 * [🪄 Product Updates](overview/product-updates.md)
 
 ## fundementals
