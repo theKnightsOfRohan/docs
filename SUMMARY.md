@@ -16,3 +16,4 @@
 
 * [⏫ DevGPT set up](product-guides/avery-1-set-up/README.md)
   * [⚙ Installation](product-guides/devgpt-set-up/installation.md)
+  * [📖 Quick-start tutorial](product-guides/devgpt-set-up/quick-start-tutorial.md)
