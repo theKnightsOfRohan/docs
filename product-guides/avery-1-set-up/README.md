@@ -8,6 +8,6 @@ coverY: 0
 
 # ⏫ DevGPT set up
 
-{% content-ref url="github-integration.md" %}
-[github-integration.md](github-integration.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

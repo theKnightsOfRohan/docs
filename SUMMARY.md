@@ -1,10 +1,9 @@
 # Table of contents
 
-* [👋 Welcome to February Labs!](README.md)
+* [👋 Welcome to DevGPT!](README.md)
 
 ## Overview
 
-* [⚙ Installation](overview/installation.md)
 * [🪄 Product Updates](overview/product-updates.md)
 
 ## fundementals
@@ -16,9 +15,4 @@
 ## Product Guides
 
 * [⏫ DevGPT set up](product-guides/avery-1-set-up/README.md)
-  * [📝 GitHub Integration](product-guides/avery-1-set-up/github-integration.md)
-
-## Info
-
-* [🧝♂ Open-source contributor benefits](info/open-source-contributor-benefits.md)
-* [💼 Pricing](info/pricing.md)
+  * [⚙ Installation](product-guides/devgpt-set-up/installation.md)

@@ -10,12 +10,10 @@ coverY: 0
 
 ## What is DevGPT?
 
-DevGPT, developed by February Labs, is a collection of open-source models powered by Bard, OpenAI, and HuggingFace. DevGPT enables autonomous code generation, allowing you to write code on your behalf.
+DevGPT enables autonomous code generation, DevGPT accepts a prompt and writes code directly to your IDE based on that prompt.
 
-## How does it work?
 
-Introducing DevGPT, an invaluable tool that offers a range of features to streamline developer tasks. By simply providing a few API keys, DevGPT efficiently breaks down complex assignments into manageable subtasks. Leveraging publicly available code generation models, it automatically generates high-quality code for each task.
 
-The end result? A seamless workflow that saves developers precious time and effort. Furthermore, DevGPT goes the extra mile by raising the meticulously crafted work as a professional Pull Request on GitHub. But the story doesn't end there. We're excited to announce that we're currently hard at an open-source iteration of DevGPT, aiming to empower and revolutionise the developer community with enhanced capabilities.
+The end result? A seamless workflow that saves developers precious time and effort. But the story doesn't end there. We're excited to announce that we're currently hard at an open-source iteration of DevGPT, aiming to empower and revolutionise the developer community with enhanced capabilities.
 
 Stay tuned for the future of efficient coding!

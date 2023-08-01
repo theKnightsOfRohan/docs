@@ -6,7 +6,7 @@ cover: >-
 coverY: 0
 ---
 
-# 👋 Welcome to February Labs!
+# 👋 Welcome to DevGPT!
 
 {% hint style="success" %}
 We have recently renamed Avery-1 to **DevGPT**
@@ -16,18 +16,16 @@ Overview
 
 February Labs is a young and innovative AI research company based in the North of the UK. Founded in 2020 and with a focus on artificial general intelligence and autonomous AI, the company is dedicated to creating AI-powered products that streamline the software development process.
 
-We build free and open-source tools, so far we've been working on DevGPT, our tools for completing dev tickets on your behalf.
+So far we've been working on DevGPT, our tools for completing dev tickets on your behalf.
 
 > You can see more info on DevGPT, including sign up and steps to get started
 >
-> — From the [February Labs Homepage](https://feb.co.uk)
+> — From the [DevGPT homepage](https://devgpt.com)
 
-> You can take a look at all of the tools we're currently working on, and even submit your own
->
-> — From the [February Labs Marketplace](https://feb.co.uk/marketplace)
+
 
 {% hint style="info" %}
-**February Labs Tip:** Want to get involved in our community and benefit from our [open-source developer benefits](info/open-source-contributor-benefits.md)? Join our [discord server](https://discord.gg/6GFtwzuvtw) today!
+**February Labs Tip:** Want to get involved in our community? Join our [discord server](https://discord.gg/6GFtwzuvtw) today!
 {% endhint %}
 
 ## Quick links
@@ -38,12 +36,8 @@ We build free and open-source tools, so far we've been working on DevGPT, our to
 
 ## Get Started
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+Ready to jump in? We've put together some helpful guides for you to get setup with our product quickly and easily.
 
 {% content-ref url="product-guides/avery-1-set-up/" %}
 [avery-1-set-up](product-guides/avery-1-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="product-guides/avery-1-set-up/github-integration.md" %}
-[github-integration.md](product-guides/avery-1-set-up/github-integration.md)
 {% endcontent-ref %}
