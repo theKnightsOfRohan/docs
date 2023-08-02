@@ -4,4 +4,4 @@ description: Here you'll find a quick video tutorial on how to use devgpt-agent-
 
 # 📖 Quick-start tutorial
 
-**Attention:** We are currently in the process of preparing for our launch, scheduled for today, **August 1, 2023.** Please revisit our documentation shortly to access the quick-start tutorial.
+{% embed url="https://www.youtube.com/watch?v=fw_oRPToA8Q" %}
