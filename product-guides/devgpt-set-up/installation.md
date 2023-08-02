@@ -6,23 +6,17 @@ description: >-
 
 # ⚙ Installation
 
+## :warning: August 2 update: We are in the process of uploading the installers to this page; please bear with us. We'll announce on Discord once this is complete! Thank you - Team Feb.
+
 {% hint style="success" %}
 APPLE: Download this file to get started
 {% endhint %}
-
-{% file src="../../.gitbook/assets/DevGPT.zip" %}
-APPLE
-{% endfile %}
 
 ***
 
 {% hint style="success" %}
 WINDOWS: Download this file to get started
 {% endhint %}
-
-{% file src="../../.gitbook/assets/DevGPT.exe.zip" %}
-WINDOWS
-{% endfile %}
 
 ***
 
