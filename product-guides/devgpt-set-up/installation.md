@@ -7,16 +7,28 @@ description: >-
 # ⚙ Installation
 
 {% hint style="success" %}
-Download this file to get started
+APPLE: Download this file to get started
 {% endhint %}
 
-{% file src="../../.gitbook/assets/DevGPT (1).zip" %}
+{% file src="../../.gitbook/assets/DevGPT.zip" %}
+APPLE
+{% endfile %}
+
+***
+
+{% hint style="success" %}
+WINDOWS: Download this file to get started
+{% endhint %}
+
+{% file src="../../.gitbook/assets/DevGPT.exe.zip" %}
+WINDOWS
+{% endfile %}
+
+***
 
 This file is required to make changes to your local code editor. It automatically connects to our DevGPT web app allowing you to make requests. Once you have downloaded the file, unzip the file and run the executable (.exe).&#x20;
 
 If you have any questions, get in touch with our team on Discord.&#x20;
-
-
 
 Excited to hear what you create.
 
