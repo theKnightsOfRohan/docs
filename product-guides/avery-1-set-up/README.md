@@ -8,6 +8,3 @@ coverY: 0
 
 # ⏫ DevGPT set up
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
