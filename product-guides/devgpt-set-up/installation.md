@@ -6,12 +6,14 @@ description: >-
 
 # ⚙ Installation
 
+> The Apple Installer and Windows Installer link will start a download.
+
 {% hint style="success" %}
-[Apple Installer](https://github.com/february-labs/devgpt-releases/releases/download/release/DevGPT-1.0.0-universal.dmg)
+[Apple Installer](https://github.com/february-labs/devgpt-releases/releases/download/release/DevGPT-1.0.0-universal.dmg) (download 442mb)
 {% endhint %}
 
 {% hint style="success" %}
-[Windows Installer](https://github.com/february-labs/devgpt-releases/releases/download/release/DevGPT-1.0.0-universal.dmg)
+[Windows Installer](https://github.com/february-labs/devgpt-releases/releases/download/release/DevGPT-1.0.0-universal.dmg) (download 442mb)
 {% endhint %}
 
 {% hint style="info" %}
