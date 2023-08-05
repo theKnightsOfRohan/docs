@@ -6,7 +6,7 @@ description: >-
 
 # ⚙ Installation
 
-## :warning: August 2 update: We are in the process of uploading the installers to this page; please bear with us. We'll announce on Discord once this is complete! Thank you - Team Feb.
+## August 4th Update: The below versions are beta versions and likely contain bugs; the full release files will be available for download on this page in the coming days.
 
 {% hint style="success" %}
 APPLE: Download this file to get started
