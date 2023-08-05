@@ -20,7 +20,7 @@ description: >-
 [View our Github Releases](https://github.com/february-labs/devgpt-releases/releases/tag/release)
 {% endhint %}
 
-## August 5th Update: All versions are beta versions and likely to contain bugs.
+## August 5th Update: All versions are beta versions and likely to contain bugs. We appreciate all feedback.
 
 If you have any questions, get in touch with our team on Discord. We are excited to hear what you create!
 
