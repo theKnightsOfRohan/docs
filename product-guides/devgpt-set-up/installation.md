@@ -6,25 +6,21 @@ description: >-
 
 # ⚙ Installation
 
-## August 4th Update: The below versions are beta versions and likely contain bugs; the full release files will be available for download on this page in the coming days.
-
 {% hint style="success" %}
-APPLE: Download this file to get started
+[Apple Installer](https://github.com/february-labs/devgpt-releases/releases/download/release/DevGPT-1.0.0-universal.dmg)
 {% endhint %}
 
-***
-
 {% hint style="success" %}
-WINDOWS: Download this file to get started
+[Windows Installer](https://github.com/february-labs/devgpt-releases/releases/download/release/DevGPT-1.0.0-universal.dmg)
 {% endhint %}
 
-***
+{% hint style="info" %}
+[View our Github Releases](https://github.com/february-labs/devgpt-releases/releases/tag/release)
+{% endhint %}
 
-This file is required to make changes to your local code editor. It automatically connects to our DevGPT web app allowing you to make requests. Once you have downloaded the file, unzip the file and run the executable (.exe).&#x20;
+## August 5th Update: All versions are beta versions and likely to contain bugs.
 
-If you have any questions, get in touch with our team on Discord.&#x20;
-
-Excited to hear what you create.
+If you have any questions, get in touch with our team on Discord. We are excited to hear what you create!
 
 _DevGPT Team._
 
