@@ -13,7 +13,7 @@ description: >-
 {% endhint %}
 
 {% hint style="success" %}
-Windows Installer - **Coming today, August 5th**
+Windows Installer - **Coming soon.**
 {% endhint %}
 
 {% hint style="info" %}
