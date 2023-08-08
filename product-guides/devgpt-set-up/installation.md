@@ -22,6 +22,8 @@ Windows Installer - **Coming soon.**
 
 ## August 5th Update: All versions are beta versions and likely to contain bugs. We appreciate any feedback in Discord!
 
+## August 8th update: We will be releasing the Windows version shortly.
+
 If you have any questions, get in touch with our team on Discord. We are excited to hear what you create!
 
 _DevGPT Team._
