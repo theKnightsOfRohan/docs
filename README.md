@@ -38,6 +38,6 @@ So far we've been working on DevGPT, our tools for completing dev tickets on you
 
 Ready to jump in? We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="product-guides/avery-1-set-up/" %}
-[avery-1-set-up](product-guides/avery-1-set-up/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

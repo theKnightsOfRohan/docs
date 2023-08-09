@@ -1,11 +1,3 @@
----
-cover: >-
-  ../.gitbook/assets/DALL·E 2023-04-18 19.34.02 - A whimsical scene of a young
-  woman sitting in a field of flowers, surrounded by pastel-colored butterflies
-  and a cute digital assistant, as she codes .png
-coverY: 0
----
-
 # 💡 Best Practices
 
 To make the most of DevGPT and ensure a smooth experience, following some best practices is highly recommended.
