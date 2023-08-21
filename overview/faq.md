@@ -2,14 +2,6 @@
 
 <details>
 
-<summary>Q: Do I need a subscription?</summary>
-
-A: Yes, a paid subscription is required to access and use DevGPT for your coding tasks. It provides you with the necessary resources and capabilities to leverage the power of DevGPT effectively.
-
-</details>
-
-<details>
-
 <summary>Q: How do I set it up?</summary>
 
 A: Setting up DevGPT is a straightforward process. All you need is a paid subscription. After subscribing, download the installer for either Windows or Mac. Once downloaded, log in with your account credentials, set up your local repository directory, and you're all set to start using DevGPT for various coding tasks.

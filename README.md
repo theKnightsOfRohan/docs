@@ -38,6 +38,10 @@ So far we've been working on DevGPT, our tools for completing dev tickets on you
 
 Ready to jump in? We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="product-guides/quick-start-tutorial.md" %}
+[quick-start-tutorial.md](product-guides/quick-start-tutorial.md)
+{% endcontent-ref %}
+
+{% content-ref url="product-guides/installation.md" %}
+[installation.md](product-guides/installation.md)
 {% endcontent-ref %}
