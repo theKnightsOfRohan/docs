@@ -18,3 +18,7 @@
 * [Page](product-guides/page.md)
 * [⚙ Installation](product-guides/installation.md)
 * [📖 Quick-start tutorial](product-guides/quick-start-tutorial.md)
+
+***
+
+* [💻 Open Source Setup](open-source-setup.md)
