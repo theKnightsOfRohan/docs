@@ -1,11 +1,11 @@
 # Table of contents
 
-* [👋 Welcome to DevGPT!](README.md)
+* [🤗 Welcome to DevGPT!](README.md)
 
 ## Overview
 
-* [🪄 Product Updates](overview/product-updates.md)
-* [🤔 FAQ](overview/faq.md)
+* [🔮 Product Updates](overview/product-updates.md)
+* [❔ FAQ](overview/faq.md)
 
 ## fundementals
 
