@@ -8,24 +8,12 @@ coverY: 0
 
 # 👋 Welcome to DevGPT!
 
-{% hint style="success" %}
-We have recently renamed Avery-1 to **DevGPT**
-{% endhint %}
-
 Overview
 
-February Labs is a young and innovative AI research company based in the North of the UK. Founded in 2020 and with a focus on artificial general intelligence and autonomous AI, the company is dedicated to creating AI-powered products that streamline the software development process.
-
-So far we've been working on DevGPT, our tools for completing dev tickets on your behalf.
-
-> You can see more info on DevGPT, including sign up and steps to get started
->
-> — From the [DevGPT homepage](https://devgpt.com)
-
-
+We handle the routine coding, you focus on more complex and fulfilling tasks, by turning tasks to code. Click below and start transforming your coding experience in just 40 seconds.
 
 {% hint style="info" %}
-**February Labs Tip:** Want to get involved in our community? Join our [discord server](https://discord.gg/6GFtwzuvtw) today!
+**Tip:** Want to get involved in our community? Join our [discord server](https://discord.gg/6GFtwzuvtw) today!
 {% endhint %}
 
 ## Quick links
