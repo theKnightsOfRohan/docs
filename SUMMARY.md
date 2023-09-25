@@ -15,9 +15,8 @@
 
 ## Product Guides
 
-* [Page](product-guides/page.md)
-* [⚙ Installation](product-guides/installation.md)
-* [📖 Quick-start tutorial](product-guides/quick-start-tutorial.md)
+* [📖 Quick-start tutorial](product-guides/page.md)
+* [🪄 Prompting](product-guides/prompting.md)
 
 ***
 

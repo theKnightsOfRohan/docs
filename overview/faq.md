@@ -4,7 +4,7 @@ description: >-
   a question that's not here, tell one of our team!
 ---
 
-# 🤔 FAQ
+# ❔ FAQ
 
 <details>
 
@@ -63,8 +63,6 @@ Written by Tom @ DevGPT (16/09/2023)
 
 This error is often caused by being on the incorrect version. In version 1.1.1 we made it so people didn't have to immediately upgrade after a new version is released. However, if you are in a version earlier than 1.1.1, you will have to upgrade versions. It is always recommended to be on the newest version for the best experience. You can get new versions of the app here: [https://www.devgpt.com/download](https://www.devgpt.com/download)
 
-
-
 Written by Tom @ DevGPT (16/09/2023)
 
 </details>
@@ -82,8 +80,6 @@ If you have upgraded but on the sidebar in the app you still have an 'Upgrade' b
 
 I'll keep updating this post as we get more reasons for this happening. If this hasn't fixed your issue and you have checked the above: please get directly in touch with one of our team and they will help you. I (tom @ devgpt) will happily help you fix these issues.
 
-
-
 Written by Tom @ DevGPT (16/09/2023)
 
 </details>
@@ -96,8 +92,6 @@ In the app during sign in, we have a reset password function. This will open, yo
 
 Here, you can reset your password and access additional support docs.
 
-
-
 Written by Tom @ DevGPT (16/09/2023)
 
 </details>
@@ -107,8 +101,6 @@ Written by Tom @ DevGPT (16/09/2023)
 <summary>I have a new idea / want to report an issue</summary>
 
 You can do this at devgpt-releases github issues [https://github.com/february-labs/devgpt-releases/issues](https://github.com/february-labs/devgpt-releases/issues). It doesn't have to be an "issue" for you to report it here, it can be a suggestion, idea, or any feedback at all! :)
-
-
 
 Written by Tom @ DevGPT (16/09/2023)
 
@@ -145,8 +137,6 @@ Example perfect prompts:
 
 I'll add more fixes, example prompts and issues to this list as they are coming in.
 
-
-
 Written by Tom @ DevGPT (16/09/2023)
 
 </details>
@@ -158,8 +148,6 @@ Written by Tom @ DevGPT (16/09/2023)
 This is something we have noticed in loading, and are working on reducing our package size to reduce overall download size and loading time.
 
 In the meantime we do apologise for the slightly longer than usual load time. If you are waiting anywhere over 7-10 minutes however, you may want to consider a reload, or to look for more help in the DevGPT discord.
-
-
 
 Written by Tom @ DevGPT (16/09/2023)
 
