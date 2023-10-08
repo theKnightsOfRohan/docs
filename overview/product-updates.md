@@ -1,4 +1,8 @@
-# 🪄 Product Updates
+# 🔮 Product Updates
+
+## DevGPT: 2.0.0 (September 2023)
+
+The new major version of 2.0.0 brings the application to the web, enhances the functionality and improves the reliability of DevGPT.&#x20;
 
 ## DevGPT: 1.1.1 (September 2023)
 

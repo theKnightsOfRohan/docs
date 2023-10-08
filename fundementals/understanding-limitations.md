@@ -2,7 +2,7 @@
 
 DevGPT is a powerful tool designed to streamline developer tasks, but it does have some limitations.
 
-### **Limitations of** DevGPT**:**
+### **Limitations of** DevGPT:
 
 * Dependence on Code Generation Models: DevGPT relies on publicly available code generation models, which limits the range of code it can produce.
 * Compatibility with Project Requirements: The generated code may not always meet specific project requirements or adhere to certain coding standards.
