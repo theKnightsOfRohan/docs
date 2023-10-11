@@ -20,4 +20,6 @@
 
 ***
 
+## Contributing
+
 * [💻 Open Source Setup](open-source-setup.md)
