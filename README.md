@@ -1,6 +1,6 @@
 # 🤗 Welcome to DevGPT!
 
-We handle the routine coding, you focus on more complex and fulfilling tasks, by turning tasks to code. Click below and start transforming your coding experience in just 40 seconds.&#x20;
+We handle the routine coding by turning tasks to code, allowing you to focus on more complex and important things. Click below and start transforming your coding experience in just 40 seconds.&#x20;
 
 ## Quick links
 
@@ -14,7 +14,7 @@ We handle the routine coding, you focus on more complex and fulfilling tasks, by
 
 ## Get Started
 
-Ready to jump in? We've put together some helpful guides for you to get setup with our product quickly and easily.
+Ready to start using DevGPT? We've put together some helpful guides to help you set up our product quickly and easily.
 
 {% content-ref url="product-guides/page.md" %}
 [page.md](product-guides/page.md)
@@ -23,3 +23,9 @@ Ready to jump in? We've put together some helpful guides for you to get setup wi
 {% content-ref url="product-guides/prompting.md" %}
 [prompting.md](product-guides/prompting.md)
 {% endcontent-ref %}
+
+## Open Source
+
+Want to contribute to DevGPT? We've organized some guides to help you set up your local environment.
+
+{% content-ref url="open-source-setup.md" %}
