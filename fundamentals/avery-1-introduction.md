@@ -8,4 +8,4 @@ We're also excited to announce that we currently have an open-source iteration o
 
 Stay tuned for the future of efficient coding!
 
-Want to join our community? [Click here]({Add discord invite here}) to join our Discord server!
+Want to join our community? [Click here](https://discord.gg/6GFtwzuvtw) to join our Discord server!
