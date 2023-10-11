@@ -12,4 +12,4 @@ description: How to Get Started with DevGPT v1.0.5
 DEVGPT QUICK START GUIDE
 {% endembed %}
 
-We're happy that you want to try DevGPT, thank you for taking the time to check it out! We've created this video to help everyone get setup and ready to start solving tickets.
+We're happy that you want to try DevGPT, thank you for taking the time to check it out! We've created this video to help everyone get setup and ready to start fixing issues and ading features.
