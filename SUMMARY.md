@@ -7,11 +7,11 @@
 * [🔮 Product Updates](overview/product-updates.md)
 * [❔ FAQ](overview/faq.md)
 
-## fundementals
+## Fundamentals
 
-* [📪 DevGPT Introduction](fundementals/avery-1-introduction.md)
-* [📎 Understanding Limitations](fundementals/understanding-limitations.md)
-* [💡 Best Practices](fundementals/best-practices.md)
+* [📪 DevGPT Introduction](fundamentals/avery-1-introduction.md)
+* [📎 Understanding Limitations](fundamentals/understanding-limitations.md)
+* [💡 Best Practices](fundamentals/best-practices.md)
 
 ## Product Guides
 
